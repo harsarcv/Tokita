@@ -208,10 +208,6 @@ Password: admin123
 
 ![Checkout](screenshots/checkout.png)
 
-### Payment
-
-![Payment](screenshots/payment.png)
-
 ### Order History
 
 ![Order History](screenshots/orders.png)
